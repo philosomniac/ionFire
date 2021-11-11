@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "124222514559",
+    "project_id": "fironic-todo",
+    "storage_bucket": "fironic-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124222514559:android:c013330c416e277630264a",
+        "android_client_info": {
+          "package_name": "com.philosomnia.fironictodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124222514559-bugnmfob32dimhb4gao3vrr6muaff8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmkLxvn2ryQ11IE8L8oi3g_GuuHvg79Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124222514559-bugnmfob32dimhb4gao3vrr6muaff8ni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124222514559-1momh5ornu2tpo3nq98n2pnl136p7mgs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.philosomniac.fironictodo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
